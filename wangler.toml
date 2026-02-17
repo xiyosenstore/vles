@@ -1,4 +1,7 @@
-name = "vles1"
+name = "tes-vles"
+main = "worker.js"
 compatibility_date = "2026-02-17"
 
-assets = { directory = "." }
+[assets]
+directory = "."
+binding = "ASSETS"
