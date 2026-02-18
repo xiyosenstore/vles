@@ -1,2 +1,1 @@
-akubisa.workers.dev
-akubisa.com
+api24-normal.tiktokv.com.benxx.workers.dev
